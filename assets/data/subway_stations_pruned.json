@@ -1,0 +1,2494 @@
+[
+{
+  "Line": "4 Avenue",
+  "Station Name": "25th St",
+  "Station Latitude": 40.660397,
+  "Station Longitude": -73.998091,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "36th St",
+  "Station Latitude": 40.655144,
+  "Station Longitude": -74.003549,
+  "routelist": "N R         "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "45th St",
+  "Station Latitude": 40.648939,
+  "Station Longitude": -74.010006,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "53rd St",
+  "Station Latitude": 40.645069,
+  "Station Longitude": -74.014034,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "59th St",
+  "Station Latitude": 40.641362,
+  "Station Longitude": -74.017881,
+  "routelist": "N R         "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "77th St",
+  "Station Latitude": 40.629742,
+  "Station Longitude": -74.02551,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "86th St",
+  "Station Latitude": 40.622687,
+  "Station Longitude": -74.028398,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "95th St",
+  "Station Latitude": 40.616622,
+  "Station Longitude": -74.030876,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "9th St",
+  "Station Latitude": 40.670847,
+  "Station Longitude": -73.988302,
+  "routelist": "F G R        "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "Atlantic Av-Barclays Ctr",
+  "Station Latitude": 40.683666,
+  "Station Longitude": -73.97881,
+  "routelist": "B Q D N R 2 3 4 5  "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "Bay Ridge Av",
+  "Station Latitude": 40.634967,
+  "Station Longitude": -74.023377,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "DeKalb Av",
+  "Station Latitude": 40.690635,
+  "Station Longitude": -73.981824,
+  "routelist": "B Q R        "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "Pacific St",
+  "Station Latitude": 40.683666,
+  "Station Longitude": -73.97881,
+  "routelist": "B Q D N R 2 3 4 5  "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "Prospect Av",
+  "Station Latitude": 40.665414,
+  "Station Longitude": -73.992872,
+  "routelist": "R          "
+}
+,{
+  "Line": "4 Avenue",
+  "Station Name": "Union St",
+  "Station Latitude": 40.677316,
+  "Station Longitude": -73.98311,
+  "routelist": "R          "
+}
+,{
+  "Line": "42nd St Shuttle",
+  "Station Name": "Grand Central",
+  "Station Latitude": 40.752769,
+  "Station Longitude": -73.979189,
+  "routelist": "GS 4 5 6 7      "
+}
+,{
+  "Line": "42nd St Shuttle",
+  "Station Name": "Times Square",
+  "Station Latitude": 40.755983,
+  "Station Longitude": -73.986229,
+  "routelist": "A C E N Q R GS 1 2 3 7"
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "14th St",
+  "Station Latitude": 40.738228,
+  "Station Longitude": -73.996209,
+  "routelist": "F L M 1 2 3     "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "23rd St",
+  "Station Latitude": 40.742878,
+  "Station Longitude": -73.992821,
+  "routelist": "F M         "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "2nd Av",
+  "Station Latitude": 40.723402,
+  "Station Longitude": -73.989938,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "34th St",
+  "Station Latitude": 40.749719,
+  "Station Longitude": -73.987823,
+  "routelist": "B D F M N Q R    "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "42nd St",
+  "Station Latitude": 40.754222,
+  "Station Longitude": -73.984569,
+  "routelist": "B D F M 7      "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "47-50th Sts Rockefeller Center",
+  "Station Latitude": 40.758663,
+  "Station Longitude": -73.981329,
+  "routelist": "B D F M       "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "4th Av",
+  "Station Latitude": 40.670272,
+  "Station Longitude": -73.989779,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "57th St",
+  "Station Latitude": 40.763972,
+  "Station Longitude": -73.97745,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "7th Av",
+  "Station Latitude": 40.666271,
+  "Station Longitude": -73.980305,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Bergen St",
+  "Station Latitude": 40.686145,
+  "Station Longitude": -73.990862,
+  "routelist": "F G         "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Broadway-Lafayette St",
+  "Station Latitude": 40.725297,
+  "Station Longitude": -73.996204,
+  "routelist": "B D F M 6      "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Carroll St",
+  "Station Latitude": 40.680303,
+  "Station Longitude": -73.995048,
+  "routelist": "F G         "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Church Av",
+  "Station Latitude": 40.644041,
+  "Station Longitude": -73.979678,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Delancey St",
+  "Station Latitude": 40.718611,
+  "Station Longitude": -73.988114,
+  "routelist": "F J M Z       "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "East Broadway",
+  "Station Latitude": 40.713715,
+  "Station Longitude": -73.990173,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Fort Hamilton Parkway",
+  "Station Latitude": 40.650782,
+  "Station Longitude": -73.975776,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Grand St",
+  "Station Latitude": 40.718267,
+  "Station Longitude": -73.993753,
+  "routelist": "B D         "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Prospect Park-15 St",
+  "Station Latitude": 40.660365,
+  "Station Longitude": -73.979493,
+  "routelist": "F          "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "Smith-9th St",
+  "Station Latitude": 40.67358,
+  "Station Longitude": -73.995959,
+  "routelist": "F G R        "
+}
+,{
+  "Line": "6 Avenue",
+  "Station Name": "York St",
+  "Station Latitude": 40.699743,
+  "Station Longitude": -73.986885,
+  "routelist": "F          "
+}
+,{
+  "Line": "63rd Street",
+  "Station Name": "21st St",
+  "Station Latitude": 40.754203,
+  "Station Longitude": -73.942836,
+  "routelist": "F          "
+}
+,{
+  "Line": "63rd Street",
+  "Station Name": "Lexington Av",
+  "Station Latitude": 40.764627,
+  "Station Longitude": -73.96611,
+  "routelist": "F          "
+}
+,{
+  "Line": "63rd Street",
+  "Station Name": "Roosevelt Island",
+  "Station Latitude": 40.759145,
+  "Station Longitude": -73.95326,
+  "routelist": "F          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "103rd St",
+  "Station Latitude": 40.796092,
+  "Station Longitude": -73.961454,
+  "routelist": "B C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "116th St",
+  "Station Latitude": 40.805085,
+  "Station Longitude": -73.954882,
+  "routelist": "B C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "125th St",
+  "Station Latitude": 40.811109,
+  "Station Longitude": -73.952343,
+  "routelist": "A B C D       "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "135th St",
+  "Station Latitude": 40.817894,
+  "Station Longitude": -73.947649,
+  "routelist": "B C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "145th St",
+  "Station Latitude": 40.824783,
+  "Station Longitude": -73.944216,
+  "routelist": "A B C D       "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "155th St",
+  "Station Latitude": 40.830518,
+  "Station Longitude": -73.941514,
+  "routelist": "C          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "163rd St - Amsterdam Av",
+  "Station Latitude": 40.836013,
+  "Station Longitude": -73.939892,
+  "routelist": "C          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "168th St - Washington Heights",
+  "Station Latitude": 40.840719,
+  "Station Longitude": -73.939561,
+  "routelist": "A C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "175th St",
+  "Station Latitude": 40.847391,
+  "Station Longitude": -73.939704,
+  "routelist": "A          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "181st St",
+  "Station Latitude": 40.851695,
+  "Station Longitude": -73.937969,
+  "routelist": "A          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "190th St",
+  "Station Latitude": 40.859022,
+  "Station Longitude": -73.93418,
+  "routelist": "A          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "50th St",
+  "Station Latitude": 40.762456,
+  "Station Longitude": -73.985984,
+  "routelist": "C E         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "72nd St",
+  "Station Latitude": 40.775594,
+  "Station Longitude": -73.97641,
+  "routelist": "B C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "81st St - Museum of Natural History",
+  "Station Latitude": 40.781433,
+  "Station Longitude": -73.972143,
+  "routelist": "B C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "96th St",
+  "Station Latitude": 40.791646,
+  "Station Longitude": -73.964699,
+  "routelist": "B C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "Broadway-Nassau",
+  "Station Latitude": 40.710197,
+  "Station Longitude": -74.007691,
+  "routelist": "A C J Z 2 3 4 5   "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "Canal St",
+  "Station Latitude": 40.720824,
+  "Station Longitude": -74.005229,
+  "routelist": "A C E        "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "Cathedral Parkway-110th St",
+  "Station Latitude": 40.800605,
+  "Station Longitude": -73.958158,
+  "routelist": "B C         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "Chambers St",
+  "Station Latitude": 40.714111,
+  "Station Longitude": -74.008585,
+  "routelist": "A C E 2 3      "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "Dyckman St-200th St",
+  "Station Latitude": 40.865491,
+  "Station Longitude": -73.927271,
+  "routelist": "A          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "High St",
+  "Station Latitude": 40.699337,
+  "Station Longitude": -73.990531,
+  "routelist": "A C J Z 2 3 4 5   "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "Inwood - 207th St",
+  "Station Latitude": 40.868072,
+  "Station Longitude": -73.919899,
+  "routelist": "A          "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "Spring St",
+  "Station Latitude": 40.726227,
+  "Station Longitude": -74.003739,
+  "routelist": "C E         "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "West 4th St",
+  "Station Latitude": 40.732338,
+  "Station Longitude": -74.000495,
+  "routelist": "A B C D E F M    "
+}
+,{
+  "Line": "8 Avenue",
+  "Station Name": "World Trade Center",
+  "Station Latitude": 40.712582,
+  "Station Longitude": -74.009781,
+  "routelist": "A C E 2 3      "
+}
+,{
+  "Line": "Archer Av",
+  "Station Name": "Jamaica-Van Wyck",
+  "Station Latitude": 40.702566,
+  "Station Longitude": -73.816859,
+  "routelist": "E          "
+}
+,{
+  "Line": "Archer Av",
+  "Station Name": "Parsons Blvd-Archer Av - Jamaica Center",
+  "Station Latitude": 40.702147,
+  "Station Longitude": -73.801109,
+  "routelist": "E J Z        "
+}
+,{
+  "Line": "Archer Av",
+  "Station Name": "Sutphin Blvd-Archer Av - JFK",
+  "Station Latitude": 40.700486,
+  "Station Longitude": -73.807969,
+  "routelist": "E J Z        "
+}
+,{
+  "Line": "Astoria",
+  "Station Name": "30 Av-Grand Av",
+  "Station Latitude": 40.766779,
+  "Station Longitude": -73.921479,
+  "routelist": "N Q         "
+}
+,{
+  "Line": "Astoria",
+  "Station Name": "36 Av-Washington Av",
+  "Station Latitude": 40.756804,
+  "Station Longitude": -73.929575,
+  "routelist": "N Q         "
+}
+,{
+  "Line": "Astoria",
+  "Station Name": "39 Av-Beebe Av",
+  "Station Latitude": 40.752882,
+  "Station Longitude": -73.932755,
+  "routelist": "N Q         "
+}
+,{
+  "Line": "Astoria",
+  "Station Name": "Astoria Blvd-Hoyt Av",
+  "Station Latitude": 40.770258,
+  "Station Longitude": -73.917843,
+  "routelist": "N Q         "
+}
+,{
+  "Line": "Astoria",
+  "Station Name": "Broadway",
+  "Station Latitude": 40.76182,
+  "Station Longitude": -73.925508,
+  "routelist": "N Q         "
+}
+,{
+  "Line": "Astoria",
+  "Station Name": "Ditmars Blvd",
+  "Station Latitude": 40.775036,
+  "Station Longitude": -73.912034,
+  "routelist": "N Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Atlantic Av",
+  "Station Latitude": 40.68446,
+  "Station Longitude": -73.97689,
+  "routelist": "B Q D N R 2 3 4 5  "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Av H",
+  "Station Latitude": 40.62927,
+  "Station Longitude": -73.961639,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Av J",
+  "Station Latitude": 40.625039,
+  "Station Longitude": -73.960803,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Av M",
+  "Station Latitude": 40.617618,
+  "Station Longitude": -73.959399,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Av U",
+  "Station Latitude": 40.5993,
+  "Station Longitude": -73.955929,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Beverly Rd",
+  "Station Latitude": 40.644031,
+  "Station Longitude": -73.964492,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Brighton Beach",
+  "Station Latitude": 40.577621,
+  "Station Longitude": -73.961376,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Cortelyou Rd",
+  "Station Latitude": 40.640927,
+  "Station Longitude": -73.963891,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Kings Highway",
+  "Station Latitude": 40.60867,
+  "Station Longitude": -73.957734,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Neck Rd",
+  "Station Latitude": 40.595246,
+  "Station Longitude": -73.955161,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Newkirk Av",
+  "Station Latitude": 40.635082,
+  "Station Longitude": -73.962793,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Ocean Parkway",
+  "Station Latitude": 40.576312,
+  "Station Longitude": -73.968501,
+  "routelist": "Q          "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Parkside Av",
+  "Station Latitude": 40.655292,
+  "Station Longitude": -73.961495,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Prospect Park",
+  "Station Latitude": 40.661614,
+  "Station Longitude": -73.962246,
+  "routelist": "B Q FS        "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Sheepshead Bay",
+  "Station Latitude": 40.586896,
+  "Station Longitude": -73.954155,
+  "routelist": "B Q         "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "Stillwell Av",
+  "Station Latitude": 40.577422,
+  "Station Longitude": -73.981233,
+  "routelist": "D F N Q       "
+}
+,{
+  "Line": "Brighton",
+  "Station Name": "West 8th St",
+  "Station Latitude": 40.576127,
+  "Station Longitude": -73.975939,
+  "routelist": "F Q         "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "28th St",
+  "Station Latitude": 40.745494,
+  "Station Longitude": -73.988691,
+  "routelist": "N R         "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "49th St",
+  "Station Latitude": 40.759901,
+  "Station Longitude": -73.984139,
+  "routelist": "N Q R        "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "5th Av",
+  "Station Latitude": 40.764811,
+  "Station Longitude": -73.973347,
+  "routelist": "N Q R        "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "8th St",
+  "Station Latitude": 40.730328,
+  "Station Longitude": -73.992629,
+  "routelist": "N R         "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Canal St (UL)",
+  "Station Latitude": 40.719527,
+  "Station Longitude": -74.001775,
+  "routelist": "J N Q R Z 6     "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "City Hall",
+  "Station Latitude": 40.713282,
+  "Station Longitude": -74.006978,
+  "routelist": "R          "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Cortlandt St",
+  "Station Latitude": 40.710668,
+  "Station Longitude": -74.011029,
+  "routelist": "R          "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Court St",
+  "Station Latitude": 40.6941,
+  "Station Longitude": -73.991777,
+  "routelist": "R 2 3 4 5      "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Lawrence St",
+  "Station Latitude": 40.69218,
+  "Station Longitude": -73.985942,
+  "routelist": "A C F R       "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Prince St",
+  "Station Latitude": 40.724329,
+  "Station Longitude": -73.997702,
+  "routelist": "N R         "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Rector St",
+  "Station Latitude": 40.70722,
+  "Station Longitude": -74.013342,
+  "routelist": "R          "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Times Square-42nd St",
+  "Station Latitude": 40.754672,
+  "Station Longitude": -73.986754,
+  "routelist": "A C E N Q R S 1 2 3 7"
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Union Square",
+  "Station Latitude": 40.735736,
+  "Station Longitude": -73.990568,
+  "routelist": "L N Q R 4 5 6    "
+}
+,{
+  "Line": "Broadway",
+  "Station Name": "Whitehall St",
+  "Station Latitude": 40.703087,
+  "Station Longitude": -74.012994,
+  "routelist": "R 1         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "104th St-102nd St",
+  "Station Latitude": 40.695178,
+  "Station Longitude": -73.84433,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "111th St",
+  "Station Latitude": 40.697418,
+  "Station Longitude": -73.836345,
+  "routelist": "J          "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "121st St",
+  "Station Latitude": 40.700492,
+  "Station Longitude": -73.828294,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Alabama Av",
+  "Station Latitude": 40.676992,
+  "Station Longitude": -73.898654,
+  "routelist": "J          "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Chauncey St",
+  "Station Latitude": 40.682893,
+  "Station Longitude": -73.910456,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Cleveland St",
+  "Station Latitude": 40.679947,
+  "Station Longitude": -73.884639,
+  "routelist": "J          "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Crescent St",
+  "Station Latitude": 40.683194,
+  "Station Longitude": -73.873785,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Cypress Hills",
+  "Station Latitude": 40.689941,
+  "Station Longitude": -73.87255,
+  "routelist": "J          "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Elderts Lane-75th St",
+  "Station Latitude": 40.691324,
+  "Station Longitude": -73.867139,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Flushing Av",
+  "Station Latitude": 40.70026,
+  "Station Longitude": -73.941126,
+  "routelist": "J M         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Forest Parkway-85th St",
+  "Station Latitude": 40.692435,
+  "Station Longitude": -73.86001,
+  "routelist": "J          "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Gates Av",
+  "Station Latitude": 40.68963,
+  "Station Longitude": -73.92227,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Halsey St",
+  "Station Latitude": 40.68637,
+  "Station Longitude": -73.916559,
+  "routelist": "J          "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Hewes St",
+  "Station Latitude": 40.70687,
+  "Station Longitude": -73.953431,
+  "routelist": "J M         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Kosciusko St",
+  "Station Latitude": 40.693342,
+  "Station Longitude": -73.928814,
+  "routelist": "J          "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Lorimer St",
+  "Station Latitude": 40.703869,
+  "Station Longitude": -73.947408,
+  "routelist": "J M         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Marcy Av",
+  "Station Latitude": 40.708359,
+  "Station Longitude": -73.957757,
+  "routelist": "J M Z        "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Myrtle Av",
+  "Station Latitude": 40.697207,
+  "Station Longitude": -73.935657,
+  "routelist": "J M Z        "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Norwood Av",
+  "Station Latitude": 40.68141,
+  "Station Longitude": -73.880039,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Van Siclen Av",
+  "Station Latitude": 40.678024,
+  "Station Longitude": -73.891688,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway Jamaica",
+  "Station Name": "Woodhaven Blvd",
+  "Station Latitude": 40.693879,
+  "Station Longitude": -73.851576,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "116th St-Columbia University",
+  "Station Latitude": 40.807722,
+  "Station Longitude": -73.96411,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "137th St-City College",
+  "Station Latitude": 40.822008,
+  "Station Longitude": -73.953676,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "157th St",
+  "Station Latitude": 40.834041,
+  "Station Longitude": -73.94489,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "168th St",
+  "Station Latitude": 40.840556,
+  "Station Longitude": -73.940133,
+  "routelist": "A C 1        "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "18th St",
+  "Station Latitude": 40.74104,
+  "Station Longitude": -73.997871,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "191st St",
+  "Station Latitude": 40.855225,
+  "Station Longitude": -73.929412,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "207th St",
+  "Station Latitude": 40.864614,
+  "Station Longitude": -73.918819,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "215th St",
+  "Station Latitude": 40.869444,
+  "Station Longitude": -73.915279,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "231st St",
+  "Station Latitude": 40.878856,
+  "Station Longitude": -73.904834,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "238th St",
+  "Station Latitude": 40.884667,
+  "Station Longitude": -73.90087,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "59th St-Columbus Circle",
+  "Station Latitude": 40.768247,
+  "Station Longitude": -73.981929,
+  "routelist": "A B C D 1      "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "66th St-Lincoln Center",
+  "Station Latitude": 40.77344,
+  "Station Longitude": -73.982209,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "79th St",
+  "Station Latitude": 40.783934,
+  "Station Longitude": -73.979917,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "Christopher St",
+  "Station Latitude": 40.733422,
+  "Station Longitude": -74.002906,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "Dyckman St",
+  "Station Latitude": 40.860531,
+  "Station Longitude": -73.925536,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "Franklin St",
+  "Station Latitude": 40.719318,
+  "Station Longitude": -74.006886,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "Houston St",
+  "Station Latitude": 40.728251,
+  "Station Longitude": -74.005367,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "Marble Hill-225th St",
+  "Station Latitude": 40.874561,
+  "Station Longitude": -73.909831,
+  "routelist": "1          "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "South Ferry",
+  "Station Latitude": 40.702068,
+  "Station Longitude": -74.013664,
+  "routelist": "R 1         "
+}
+,{
+  "Line": "Broadway-7th Ave",
+  "Station Name": "Van Cortlandt Park-242nd St",
+  "Station Latitude": 40.889248,
+  "Station Longitude": -73.898583,
+  "routelist": "1          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "1st Av",
+  "Station Latitude": 40.730953,
+  "Station Longitude": -73.981628,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "3rd Av",
+  "Station Latitude": 40.732849,
+  "Station Longitude": -73.986122,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "6th Av",
+  "Station Latitude": 40.737335,
+  "Station Longitude": -73.996786,
+  "routelist": "F L M 1 2 3     "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "8th Av",
+  "Station Latitude": 40.739777,
+  "Station Longitude": -74.002578,
+  "routelist": "A C E L       "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Bedford Av",
+  "Station Latitude": 40.717304,
+  "Station Longitude": -73.956872,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Bushwick Av",
+  "Station Latitude": 40.682829,
+  "Station Longitude": -73.905249,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Canarsie - Rockaway Parkway",
+  "Station Latitude": 40.646654,
+  "Station Longitude": -73.90185,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "East 105th St",
+  "Station Latitude": 40.650573,
+  "Station Longitude": -73.899485,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Graham Av",
+  "Station Latitude": 40.714565,
+  "Station Longitude": -73.944053,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Jefferson St",
+  "Station Latitude": 40.706607,
+  "Station Longitude": -73.922913,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Livonia Av",
+  "Station Latitude": 40.664038,
+  "Station Longitude": -73.900571,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Montrose Av",
+  "Station Latitude": 40.707739,
+  "Station Longitude": -73.93985,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Morgan Av",
+  "Station Latitude": 40.706152,
+  "Station Longitude": -73.933147,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "New Lots Av",
+  "Station Latitude": 40.658733,
+  "Station Longitude": -73.899232,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Sutter Av",
+  "Station Latitude": 40.669367,
+  "Station Longitude": -73.901975,
+  "routelist": "L          "
+}
+,{
+  "Line": "Canarsie",
+  "Station Name": "Wilson Av",
+  "Station Latitude": 40.688764,
+  "Station Longitude": -73.904046,
+  "routelist": "L          "
+}
+,{
+  "Line": "Clark",
+  "Station Name": "Borough Hall",
+  "Station Latitude": 40.693219,
+  "Station Longitude": -73.989998,
+  "routelist": "R 2 3 4 5      "
+}
+,{
+  "Line": "Clark",
+  "Station Name": "Clark St",
+  "Station Latitude": 40.697466,
+  "Station Longitude": -73.993086,
+  "routelist": "2 3         "
+}
+,{
+  "Line": "Clark",
+  "Station Name": "Fulton St",
+  "Station Latitude": 40.709416,
+  "Station Longitude": -74.006571,
+  "routelist": "A C J Z 2 3 4 5   "
+}
+,{
+  "Line": "Clark",
+  "Station Name": "Park Place",
+  "Station Latitude": 40.713051,
+  "Station Longitude": -74.008811,
+  "routelist": "A C E 1 2 3     "
+}
+,{
+  "Line": "Clark",
+  "Station Name": "Wall St",
+  "Station Latitude": 40.706821,
+  "Station Longitude": -74.0091,
+  "routelist": "2 3         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "167th St",
+  "Station Latitude": 40.833769,
+  "Station Longitude": -73.918432,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "170th St",
+  "Station Latitude": 40.839306,
+  "Station Longitude": -73.9134,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "174-175th Sts",
+  "Station Latitude": 40.8459,
+  "Station Longitude": -73.910136,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "182nd-183rd Sts",
+  "Station Latitude": 40.856093,
+  "Station Longitude": -73.900741,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "Bedford Park Blvd",
+  "Station Latitude": 40.873244,
+  "Station Longitude": -73.887138,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "Fordham Rd",
+  "Station Latitude": 40.861296,
+  "Station Longitude": -73.897749,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "Kingsbridge Rd",
+  "Station Latitude": 40.866978,
+  "Station Longitude": -73.893509,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "Norwood-205th St",
+  "Station Latitude": 40.874811,
+  "Station Longitude": -73.878855,
+  "routelist": "D          "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "Tremont Av",
+  "Station Latitude": 40.85041,
+  "Station Longitude": -73.905227,
+  "routelist": "B D         "
+}
+,{
+  "Line": "Concourse",
+  "Station Name": "Yankee Stadium-161st St",
+  "Station Latitude": 40.827905,
+  "Station Longitude": -73.925651,
+  "routelist": "B D 4        "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Bedford-Nostrand Avs",
+  "Station Latitude": 40.689627,
+  "Station Longitude": -73.953522,
+  "routelist": "G          "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Classon Av",
+  "Station Latitude": 40.688873,
+  "Station Longitude": -73.96007,
+  "routelist": "G          "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Clinton-Washington Avs",
+  "Station Latitude": 40.688089,
+  "Station Longitude": -73.966839,
+  "routelist": "G          "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Greenpoint Av",
+  "Station Latitude": 40.731352,
+  "Station Longitude": -73.954449,
+  "routelist": "G          "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Long Island City-Court Square",
+  "Station Latitude": 40.746554,
+  "Station Longitude": -73.943832,
+  "routelist": "G          "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Metropolitan Av",
+  "Station Latitude": 40.712792,
+  "Station Longitude": -73.951418,
+  "routelist": "G L         "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Myrtle-Willoughby Avs",
+  "Station Latitude": 40.694568,
+  "Station Longitude": -73.949046,
+  "routelist": "G          "
+}
+,{
+  "Line": "Crosstown",
+  "Station Name": "Nassau Av",
+  "Station Latitude": 40.724635,
+  "Station Longitude": -73.951277,
+  "routelist": "G          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "18th Av",
+  "Station Latitude": 40.629755,
+  "Station Longitude": -73.976971,
+  "routelist": "F          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "Av I",
+  "Station Latitude": 40.625322,
+  "Station Longitude": -73.976127,
+  "routelist": "F          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "Av N",
+  "Station Latitude": 40.61514,
+  "Station Longitude": -73.974197,
+  "routelist": "F          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "Av P",
+  "Station Latitude": 40.608944,
+  "Station Longitude": -73.973022,
+  "routelist": "F          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "Av X",
+  "Station Latitude": 40.58962,
+  "Station Longitude": -73.97425,
+  "routelist": "F          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "Bay Parkway-22nd Av",
+  "Station Latitude": 40.620769,
+  "Station Longitude": -73.975264,
+  "routelist": "F          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "Ditmas Av",
+  "Station Latitude": 40.636119,
+  "Station Longitude": -73.978172,
+  "routelist": "F          "
+}
+,{
+  "Line": "Culver",
+  "Station Name": "Neptune Av-Van Siclen",
+  "Station Latitude": 40.581011,
+  "Station Longitude": -73.974574,
+  "routelist": "F          "
+}
+,{
+  "Line": "Dyre Av",
+  "Station Name": "Baychester Av",
+  "Station Latitude": 40.878663,
+  "Station Longitude": -73.838591,
+  "routelist": "5          "
+}
+,{
+  "Line": "Dyre Av",
+  "Station Name": "Eastchester-Dyre Av",
+  "Station Latitude": 40.8883,
+  "Station Longitude": -73.830834,
+  "routelist": "5          "
+}
+,{
+  "Line": "Dyre Av",
+  "Station Name": "Gun Hill Rd",
+  "Station Latitude": 40.869526,
+  "Station Longitude": -73.846384,
+  "routelist": "5          "
+}
+,{
+  "Line": "Dyre Av",
+  "Station Name": "Morris Park",
+  "Station Latitude": 40.854364,
+  "Station Longitude": -73.860495,
+  "routelist": "5          "
+}
+,{
+  "Line": "Dyre Av",
+  "Station Name": "Pelham Parkway",
+  "Station Latitude": 40.858985,
+  "Station Longitude": -73.855359,
+  "routelist": "5          "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Eastern Parkway-Brooklyn Museum",
+  "Station Latitude": 40.671987,
+  "Station Longitude": -73.964375,
+  "routelist": "2 3         "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Franklin Av",
+  "Station Latitude": 40.670682,
+  "Station Longitude": -73.958131,
+  "routelist": "FS 2 3 4 5      "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Grand Army Plaza",
+  "Station Latitude": 40.675235,
+  "Station Longitude": -73.971046,
+  "routelist": "2 3         "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Hoyt St",
+  "Station Latitude": 40.690545,
+  "Station Longitude": -73.985065,
+  "routelist": "2 3         "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Kingston Av",
+  "Station Latitude": 40.669399,
+  "Station Longitude": -73.942161,
+  "routelist": "3          "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Nevins St",
+  "Station Latitude": 40.688246,
+  "Station Longitude": -73.980492,
+  "routelist": "2 3 4 5       "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Nostrand Av",
+  "Station Latitude": 40.669847,
+  "Station Longitude": -73.950466,
+  "routelist": "3          "
+}
+,{
+  "Line": "Eastern Parkway",
+  "Station Name": "Utica Av",
+  "Station Latitude": 40.668897,
+  "Station Longitude": -73.932942,
+  "routelist": "3 4         "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "45 Rd-Court House Sq",
+  "Station Latitude": 40.747023,
+  "Station Longitude": -73.945264,
+  "routelist": "E G M 7       "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "82nd St-Jackson Heights",
+  "Station Latitude": 40.747659,
+  "Station Longitude": -73.883697,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "90th St Elmhurst",
+  "Station Latitude": 40.748408,
+  "Station Longitude": -73.876613,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Bliss St-46th St",
+  "Station Latitude": 40.743132,
+  "Station Longitude": -73.918435,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Broadway-74th St",
+  "Station Latitude": 40.746848,
+  "Station Longitude": -73.891394,
+  "routelist": "E F M R 7      "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Fisk Av-69th St",
+  "Station Latitude": 40.746325,
+  "Station Longitude": -73.896403,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Flushing-Main St",
+  "Station Latitude": 40.7596,
+  "Station Longitude": -73.83003,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Grand Central-42nd St",
+  "Station Latitude": 40.751431,
+  "Station Longitude": -73.976041,
+  "routelist": "GS 4 5 6 7      "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Hunters Point",
+  "Station Latitude": 40.742216,
+  "Station Longitude": -73.948916,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Junction Blvd",
+  "Station Latitude": 40.749145,
+  "Station Longitude": -73.869527,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Lincoln Av-52nd St",
+  "Station Latitude": 40.744149,
+  "Station Longitude": -73.912549,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Lowery St-40th St",
+  "Station Latitude": 40.743781,
+  "Station Longitude": -73.924016,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Mets - Willets Point",
+  "Station Latitude": 40.754622,
+  "Station Longitude": -73.845625,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Queensboro Plaza",
+  "Station Latitude": 40.750582,
+  "Station Longitude": -73.940202,
+  "routelist": "N Q 7        "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Rawson St-33rd St",
+  "Station Latitude": 40.744587,
+  "Station Longitude": -73.930997,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Vernon Blvd-Jackson Av",
+  "Station Latitude": 40.742626,
+  "Station Longitude": -73.953581,
+  "routelist": "7          "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "Woodside Av-61st St",
+  "Station Latitude": 40.74563,
+  "Station Longitude": -73.902984,
+  "routelist": "7          "
+}
+,{
+  "Line": "Franklin",
+  "Station Name": "Botanic Gardens",
+  "Station Latitude": 40.670343,
+  "Station Longitude": -73.959245,
+  "routelist": "FS 2 3 4 5      "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Broadway Junction-East New York",
+  "Station Latitude": 40.678334,
+  "Station Longitude": -73.905316,
+  "routelist": "A C J L       "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Clinton & Washington Avs",
+  "Station Latitude": 40.683263,
+  "Station Longitude": -73.965838,
+  "routelist": "C          "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Euclid Av",
+  "Station Latitude": 40.675377,
+  "Station Longitude": -73.872106,
+  "routelist": "A C         "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Hoyt & Schermerhorn",
+  "Station Latitude": 40.688484,
+  "Station Longitude": -73.985001,
+  "routelist": "A C G        "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Jay St - Borough Hall",
+  "Station Latitude": 40.692338,
+  "Station Longitude": -73.987342,
+  "routelist": "A C F R       "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Kingston-Throop",
+  "Station Latitude": 40.679921,
+  "Station Longitude": -73.940858,
+  "routelist": "A C         "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Lafayette Av",
+  "Station Latitude": 40.686113,
+  "Station Longitude": -73.973946,
+  "routelist": "C          "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Liberty Av",
+  "Station Latitude": 40.674542,
+  "Station Longitude": -73.896548,
+  "routelist": "A C         "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Ralph Av",
+  "Station Latitude": 40.678822,
+  "Station Longitude": -73.920786,
+  "routelist": "A C         "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Rockaway Av",
+  "Station Latitude": 40.67834,
+  "Station Longitude": -73.911946,
+  "routelist": "A C         "
+}
+,{
+  "Line": "Fulton",
+  "Station Name": "Shepherd Av",
+  "Station Latitude": 40.67413,
+  "Station Longitude": -73.88075,
+  "routelist": "A C         "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "138th St",
+  "Station Latitude": 40.813224,
+  "Station Longitude": -73.929849,
+  "routelist": "4 5         "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "149th St-Grand Concourse",
+  "Station Latitude": 40.818375,
+  "Station Longitude": -73.927351,
+  "routelist": "2 4 5        "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "176th St",
+  "Station Latitude": 40.84848,
+  "Station Longitude": -73.911794,
+  "routelist": "4          "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "183rd St",
+  "Station Latitude": 40.858407,
+  "Station Longitude": -73.903879,
+  "routelist": "4          "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "Bedford Park Blvd-Lehman College",
+  "Station Latitude": 40.873412,
+  "Station Longitude": -73.890064,
+  "routelist": "4          "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "Burnside Av",
+  "Station Latitude": 40.853453,
+  "Station Longitude": -73.907684,
+  "routelist": "4          "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "Mosholu Parkway",
+  "Station Latitude": 40.87975,
+  "Station Longitude": -73.884655,
+  "routelist": "4          "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "Mt Eden Av",
+  "Station Latitude": 40.844434,
+  "Station Longitude": -73.914685,
+  "routelist": "4          "
+}
+,{
+  "Line": "Jerome",
+  "Station Name": "Woodlawn",
+  "Station Latitude": 40.886037,
+  "Station Longitude": -73.878751,
+  "routelist": "4          "
+}
+,{
+  "Line": "Lenox",
+  "Station Name": "110th St-Central Park North",
+  "Station Latitude": 40.799075,
+  "Station Longitude": -73.951822,
+  "routelist": "2 3         "
+}
+,{
+  "Line": "Lenox",
+  "Station Name": "Harlem-148th St",
+  "Station Latitude": 40.82388,
+  "Station Longitude": -73.93647,
+  "routelist": "3          "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "110th St",
+  "Station Latitude": 40.79502,
+  "Station Longitude": -73.94425,
+  "routelist": "6          "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "14th St-Union Square",
+  "Station Latitude": 40.734673,
+  "Station Longitude": -73.989951,
+  "routelist": "L N Q R 4 5 6    "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "33rd St",
+  "Station Latitude": 40.746081,
+  "Station Longitude": -73.982076,
+  "routelist": "6          "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "51st St",
+  "Station Latitude": 40.757107,
+  "Station Longitude": -73.97192,
+  "routelist": "E M 6        "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "68th St-Hunter College",
+  "Station Latitude": 40.768141,
+  "Station Longitude": -73.96387,
+  "routelist": "6          "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "Astor Place",
+  "Station Latitude": 40.730054,
+  "Station Longitude": -73.99107,
+  "routelist": "6          "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "Bleecker St",
+  "Station Latitude": 40.725915,
+  "Station Longitude": -73.994659,
+  "routelist": "B D F M 6      "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "Bowling Green",
+  "Station Latitude": 40.704817,
+  "Station Longitude": -74.014065,
+  "routelist": "4 5         "
+}
+,{
+  "Line": "Lexington",
+  "Station Name": "Brooklyn Bridge-City Hall",
+  "Station Latitude": 40.712868,
+  "Station Longitude": -74.004806,
+  "routelist": "J Z 4 5 6      "
+}
+,{
+  "Line": "Liberty",
+  "Station Name": "104th St-Oxford Av",
+  "Station Latitude": 40.681711,
+  "Station Longitude": -73.837683,
+  "routelist": "A          "
+}
+,{
+  "Line": "Liberty",
+  "Station Name": "111th St-Greenwood Av",
+  "Station Latitude": 40.684331,
+  "Station Longitude": -73.832163,
+  "routelist": "A          "
+}
+,{
+  "Line": "Liberty",
+  "Station Name": "80th St-Hudson St",
+  "Station Latitude": 40.679371,
+  "Station Longitude": -73.858992,
+  "routelist": "A          "
+}
+,{
+  "Line": "Liberty",
+  "Station Name": "88th St-Boyd Av",
+  "Station Latitude": 40.679843,
+  "Station Longitude": -73.85147,
+  "routelist": "A          "
+}
+,{
+  "Line": "Liberty",
+  "Station Name": "Grant Av",
+  "Station Latitude": 40.677044,
+  "Station Longitude": -73.86505,
+  "routelist": "A          "
+}
+,{
+  "Line": "Liberty",
+  "Station Name": "Lefferts Blvd",
+  "Station Latitude": 40.685951,
+  "Station Longitude": -73.825798,
+  "routelist": "A          "
+}
+,{
+  "Line": "Liberty",
+  "Station Name": "Rockaway Blvd",
+  "Station Latitude": 40.680429,
+  "Station Longitude": -73.843853,
+  "routelist": "A          "
+}
+,{
+  "Line": "Myrtle",
+  "Station Name": "Central Av",
+  "Station Latitude": 40.697857,
+  "Station Longitude": -73.927397,
+  "routelist": "M          "
+}
+,{
+  "Line": "Myrtle",
+  "Station Name": "Forest Av",
+  "Station Latitude": 40.704423,
+  "Station Longitude": -73.903077,
+  "routelist": "M          "
+}
+,{
+  "Line": "Myrtle",
+  "Station Name": "Fresh Pond Rd",
+  "Station Latitude": 40.706186,
+  "Station Longitude": -73.895877,
+  "routelist": "M          "
+}
+,{
+  "Line": "Myrtle",
+  "Station Name": "Knickerbocker Av",
+  "Station Latitude": 40.698664,
+  "Station Longitude": -73.919711,
+  "routelist": "M          "
+}
+,{
+  "Line": "Myrtle",
+  "Station Name": "Seneca Av",
+  "Station Latitude": 40.702762,
+  "Station Longitude": -73.90774,
+  "routelist": "M          "
+}
+,{
+  "Line": "Nassau",
+  "Station Name": "Bowery",
+  "Station Latitude": 40.72028,
+  "Station Longitude": -73.993915,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Nassau",
+  "Station Name": "Broad St",
+  "Station Latitude": 40.706476,
+  "Station Longitude": -74.011056,
+  "routelist": "J Z         "
+}
+,{
+  "Line": "Nassau",
+  "Station Name": "Essex St",
+  "Station Latitude": 40.718315,
+  "Station Longitude": -73.987437,
+  "routelist": "F J M Z       "
+}
+,{
+  "Line": "New Lots",
+  "Station Name": "Junius St",
+  "Station Latitude": 40.663515,
+  "Station Longitude": -73.902447,
+  "routelist": "3          "
+}
+,{
+  "Line": "New Lots",
+  "Station Name": "Pennsylvania Av",
+  "Station Latitude": 40.664635,
+  "Station Longitude": -73.894895,
+  "routelist": "3          "
+}
+,{
+  "Line": "New Lots",
+  "Station Name": "Saratoga Av",
+  "Station Latitude": 40.661453,
+  "Station Longitude": -73.916327,
+  "routelist": "3          "
+}
+,{
+  "Line": "Nostrand",
+  "Station Name": "Flatbush Av-Brooklyn College",
+  "Station Latitude": 40.632836,
+  "Station Longitude": -73.947642,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "Nostrand",
+  "Station Name": "President St",
+  "Station Latitude": 40.667883,
+  "Station Longitude": -73.950683,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "Nostrand",
+  "Station Name": "Sterling St",
+  "Station Latitude": 40.662742,
+  "Station Longitude": -73.95085,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "Nostrand",
+  "Station Name": "Winthrop St",
+  "Station Latitude": 40.656652,
+  "Station Longitude": -73.9502,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "138th St-3rd Ave",
+  "Station Latitude": 40.810476,
+  "Station Longitude": -73.926138,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Brook Av",
+  "Station Latitude": 40.807566,
+  "Station Longitude": -73.91924,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Buhre Av",
+  "Station Latitude": 40.84681,
+  "Station Longitude": -73.832569,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Castle Hill Av",
+  "Station Latitude": 40.834255,
+  "Station Longitude": -73.851222,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Cypress Av",
+  "Station Latitude": 40.805368,
+  "Station Longitude": -73.914042,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "East 143rd St-St Mary's St",
+  "Station Latitude": 40.808719,
+  "Station Longitude": -73.907657,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "East 149th St",
+  "Station Latitude": 40.812118,
+  "Station Longitude": -73.904098,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Elder Av",
+  "Station Latitude": 40.828584,
+  "Station Longitude": -73.879159,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Hunts Point Av",
+  "Station Latitude": 40.820948,
+  "Station Longitude": -73.890549,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Longwood Av",
+  "Station Latitude": 40.816104,
+  "Station Longitude": -73.896435,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Middletown Rd",
+  "Station Latitude": 40.843863,
+  "Station Longitude": -73.836322,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Morrison Av-Soundview Av",
+  "Station Latitude": 40.829521,
+  "Station Longitude": -73.874516,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Parkchester-East 177th St",
+  "Station Latitude": 40.833226,
+  "Station Longitude": -73.860816,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Pelham Bay Park",
+  "Station Latitude": 40.852462,
+  "Station Longitude": -73.828121,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "St Lawrence Av",
+  "Station Latitude": 40.831509,
+  "Station Longitude": -73.867618,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Westchester Square-East Tremont Av",
+  "Station Latitude": 40.839892,
+  "Station Longitude": -73.842952,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Whitlock Av",
+  "Station Latitude": 40.826525,
+  "Station Longitude": -73.886283,
+  "routelist": "6          "
+}
+,{
+  "Line": "Pelham",
+  "Station Name": "Zerega Av",
+  "Station Latitude": 40.836488,
+  "Station Longitude": -73.847036,
+  "routelist": "6          "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "169th St",
+  "Station Latitude": 40.71047,
+  "Station Longitude": -73.793604,
+  "routelist": "F          "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "23rd St-Ely Av",
+  "Station Latitude": 40.747846,
+  "Station Longitude": -73.946,
+  "routelist": "E G M 7       "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "46th St",
+  "Station Latitude": 40.756312,
+  "Station Longitude": -73.913333,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "5th Av-53rd St",
+  "Station Latitude": 40.760167,
+  "Station Longitude": -73.975224,
+  "routelist": "E M         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "63rd Drive-Rego Park",
+  "Station Latitude": 40.729846,
+  "Station Longitude": -73.861604,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "65th St",
+  "Station Latitude": 40.749669,
+  "Station Longitude": -73.898453,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "67th Av",
+  "Station Latitude": 40.726523,
+  "Station Longitude": -73.852719,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "75th Av",
+  "Station Latitude": 40.718331,
+  "Station Longitude": -73.837324,
+  "routelist": "E F         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Briarwood-Van Wyck Blvd",
+  "Station Latitude": 40.709179,
+  "Station Longitude": -73.820574,
+  "routelist": "F          "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Elmhurst Av",
+  "Station Latitude": 40.742454,
+  "Station Longitude": -73.882017,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Forest Hills-71st Av",
+  "Station Latitude": 40.721691,
+  "Station Longitude": -73.844521,
+  "routelist": "E F M R       "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Grand Av-Newtown",
+  "Station Latitude": 40.737015,
+  "Station Longitude": -73.877223,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Jackson Heights-Roosevelt Ave",
+  "Station Latitude": 40.746644,
+  "Station Longitude": -73.891338,
+  "routelist": "E F M R 7      "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Jamaica-179th St",
+  "Station Latitude": 40.712646,
+  "Station Longitude": -73.783817,
+  "routelist": "F          "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Kew Gardens-Union Turnpike",
+  "Station Latitude": 40.714441,
+  "Station Longitude": -73.831008,
+  "routelist": "E F         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Lexington Av-53rd St",
+  "Station Latitude": 40.757552,
+  "Station Longitude": -73.969055,
+  "routelist": "E M 6        "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Northern Blvd",
+  "Station Latitude": 40.752885,
+  "Station Longitude": -73.906006,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Parsons Blvd",
+  "Station Latitude": 40.707564,
+  "Station Longitude": -73.803326,
+  "routelist": "F          "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Queens Plaza",
+  "Station Latitude": 40.748973,
+  "Station Longitude": -73.937243,
+  "routelist": "E M R        "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Steinway St",
+  "Station Latitude": 40.756879,
+  "Station Longitude": -73.92074,
+  "routelist": "M R         "
+}
+,{
+  "Line": "Queens Boulevard",
+  "Station Name": "Sutphin Blvd",
+  "Station Latitude": 40.70546,
+  "Station Longitude": -73.810708,
+  "routelist": "F          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Aqueduct Racetrack",
+  "Station Latitude": 40.672131,
+  "Station Longitude": -73.835812,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Aqueduct-North Conduit Av",
+  "Station Latitude": 40.668234,
+  "Station Longitude": -73.834058,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 105th St",
+  "Station Latitude": 40.583209,
+  "Station Longitude": -73.827559,
+  "routelist": "H          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 25th St",
+  "Station Latitude": 40.600066,
+  "Station Longitude": -73.761353,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 36th St",
+  "Station Latitude": 40.595398,
+  "Station Longitude": -73.768175,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 44th St",
+  "Station Latitude": 40.592943,
+  "Station Longitude": -73.776013,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 60th St",
+  "Station Latitude": 40.592374,
+  "Station Longitude": -73.788522,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 67th St",
+  "Station Latitude": 40.590927,
+  "Station Longitude": -73.796924,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 90th St",
+  "Station Latitude": 40.588034,
+  "Station Longitude": -73.813641,
+  "routelist": "H          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Beach 98th St",
+  "Station Latitude": 40.585307,
+  "Station Longitude": -73.820558,
+  "routelist": "H          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Broad Channel",
+  "Station Latitude": 40.608382,
+  "Station Longitude": -73.815925,
+  "routelist": "A H         "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Far Rockaway-Mott Av",
+  "Station Latitude": 40.603995,
+  "Station Longitude": -73.755405,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Howard Beach",
+  "Station Latitude": 40.660476,
+  "Station Longitude": -73.830301,
+  "routelist": "A          "
+}
+,{
+  "Line": "Rockaway",
+  "Station Name": "Rockaway Park-Beach 116th",
+  "Station Latitude": 40.580903,
+  "Station Longitude": -73.835592,
+  "routelist": "H          "
+}
+,{
+  "Line": "Sea Beach",
+  "Station Name": "20th Av",
+  "Station Latitude": 40.61741,
+  "Station Longitude": -73.985026,
+  "routelist": "N          "
+}
+,{
+  "Line": "Sea Beach",
+  "Station Name": "New Utrecht Av",
+  "Station Latitude": 40.624842,
+  "Station Longitude": -73.996353,
+  "routelist": "D N         "
+}
+,{
+  "Line": "West End",
+  "Station Name": "25th Av",
+  "Station Latitude": 40.597704,
+  "Station Longitude": -73.986829,
+  "routelist": "D          "
+}
+,{
+  "Line": "West End",
+  "Station Name": "55th St",
+  "Station Latitude": 40.631435,
+  "Station Longitude": -73.995476,
+  "routelist": "D          "
+}
+,{
+  "Line": "West End",
+  "Station Name": "62nd St",
+  "Station Latitude": 40.626472,
+  "Station Longitude": -73.996895,
+  "routelist": "D N         "
+}
+,{
+  "Line": "West End",
+  "Station Name": "71st St",
+  "Station Latitude": 40.619589,
+  "Station Longitude": -73.998864,
+  "routelist": "D          "
+}
+,{
+  "Line": "West End",
+  "Station Name": "9th Av",
+  "Station Latitude": 40.646292,
+  "Station Longitude": -73.994324,
+  "routelist": "D          "
+}
+,{
+  "Line": "West End",
+  "Station Name": "Bay 50th St",
+  "Station Latitude": 40.588841,
+  "Station Longitude": -73.983765,
+  "routelist": "D          "
+}
+,{
+  "Line": "West End",
+  "Station Name": "Bay Parkway",
+  "Station Latitude": 40.601875,
+  "Station Longitude": -73.993728,
+  "routelist": "D          "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "149th St-3rd Av",
+  "Station Latitude": 40.816109,
+  "Station Longitude": -73.917757,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "174th St",
+  "Station Latitude": 40.837288,
+  "Station Longitude": -73.887734,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "219th St",
+  "Station Latitude": 40.883895,
+  "Station Longitude": -73.862633,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "225th St",
+  "Station Latitude": 40.888022,
+  "Station Longitude": -73.860341,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "233rd St",
+  "Station Latitude": 40.893193,
+  "Station Longitude": -73.857473,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "238th St-Nereid Av",
+  "Station Latitude": 40.898379,
+  "Station Longitude": -73.854376,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Allerton Av",
+  "Station Latitude": 40.865462,
+  "Station Longitude": -73.867352,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Bronx Park East",
+  "Station Latitude": 40.848828,
+  "Station Longitude": -73.868457,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Burke Av",
+  "Station Latitude": 40.871356,
+  "Station Longitude": -73.867164,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "East 180th St",
+  "Station Latitude": 40.841894,
+  "Station Longitude": -73.873488,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "East Tremont Av-West Farms Sq",
+  "Station Latitude": 40.840295,
+  "Station Longitude": -73.880049,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Freeman St",
+  "Station Latitude": 40.829993,
+  "Station Longitude": -73.891865,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Intervale Av",
+  "Station Latitude": 40.822181,
+  "Station Longitude": -73.896736,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Jackson Av",
+  "Station Latitude": 40.81649,
+  "Station Longitude": -73.907807,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Simpson St",
+  "Station Latitude": 40.824073,
+  "Station Longitude": -73.893064,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "White Plains Road",
+  "Station Name": "Wakefield-241st St",
+  "Station Latitude": 40.903125,
+  "Station Longitude": -73.85062,
+  "routelist": "2 5         "
+}
+,{
+  "Line": "Flushing",
+  "Station Name": "34 St Hudson Yards",
+  "Station Latitude": 40.755882,
+  "Station Longitude": -74.00191,
+  "routelist": "7          "
+}
+]

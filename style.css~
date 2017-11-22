@@ -1,0 +1,22 @@
+.parchment {
+    width: 100%;
+    height: 100%;
+}
+
+.pieceoland {
+    fill: rgba(0,0,127,1);
+    stroke: black;
+    stroke-width: 1px;
+    /* stroke-dasharray: 2, 4; */
+}
+
+.pieceoland:hover {
+/* fill: white; */
+}
+.main {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

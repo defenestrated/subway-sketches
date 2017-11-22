@@ -1,0 +1,3 @@
+$cols = "Line,Station Name,Station Latitude,Station Longitude,Route{1..11}','"
+echo $cols
+# mlr --icsv --ojson --jvstack --jlistwrap cut -f  then head -n 1 -g "Station Name" NYC_Transit_Subway_Entrance_And_Exit_Data.csv
