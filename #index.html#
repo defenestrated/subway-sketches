@@ -15,9 +15,9 @@
   <body>
 
       <div class="main">
-
-          <svg class="parchment"></svg>
-
+          <canvas id="canv">
+              <svg class="parchment"></svg>
+          </canvas>
       </div>
 
   </body>

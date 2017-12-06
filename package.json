@@ -4,8 +4,8 @@
   "description": "little data",
   "main": "index.js",
   "scripts": {
-    "start": "budo index.js --live --verbose --port 3000 --open",
-    "deploy": "ghpages",
+    "start": "budo index.js:bundle.js --live --verbose --port 3000 --open",
+    "deploy": "browserify index.js | uglifyjs > bundle.js && ghpages",
     "ghpages": "ghpages"
   },
   "repository": {
@@ -19,13 +19,15 @@
   },
   "homepage": "https://github.com/defenestrated/subway-sketches#readme",
   "dependencies": {
-    "d3": "^4.12.0",
+    "d3": "^4.10.0",
     "d3-geo-projection": "^2.3.1",
+    "d3-zoom": "^1.7.1",
     "lodash": "^4.17.4",
     "topojson": "^3.0.2"
   },
   "devDependencies": {
     "budo": "^10.0.4",
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^1.1.0",
+    "ghpages": "0.0.10"
   }
 }
