@@ -1,0 +1,23 @@
+.parchment {
+  width: 100%;
+  height: 100%;
+}
+
+.trainline {
+  fill: none;
+  stroke: rgba(0,0,0,0.3);
+  stroke-width: 1px;
+  /* stroke-dasharray: 2, 4; */
+}
+
+.trainline:hover {
+  stroke: red;
+  stroke-width: 4px;
+}
+.main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
