@@ -49,8 +49,12 @@ function render() {
 
 
 function loaddata() {
-  var lines_loc = window.location.protocol + "//" + window.location.host + "/assets/data/subway-lines.topojson"
-  var stops_loc = window.location.protocol + "//" + window.location.host + "/assets/data/subway-stations.topojson"
+  // var lines_loc = window.location.protocol + "//" + window.location.host + "/assets/data/subway-lines.topojson"
+  // var stops_loc = window.location.protocol + "//" + window.location.host + "/assets/data/subway-stations.topojson"
+  var lines_loc = "assets/data/subway-lines.topojson"
+  var stops_loc = "assets/data/subway-stations.topojson"
+
+  console.log(lines_loc)
 
   d3.json(lines_loc, function(error, stuff) {
     if (error) return console.error(error)
