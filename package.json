@@ -1,0 +1,31 @@
+{
+  "name": "subway-sketches",
+  "version": "1.0.0",
+  "description": "little data",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js --live --verbose --port 3000 --open",
+    "deploy": "ghpages",
+    "ghpages": "ghpages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defenestrated/subway-sketches.git"
+  },
+  "author": "defenestrated",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defenestrated/subway-sketches/issues"
+  },
+  "homepage": "https://github.com/defenestrated/subway-sketches#readme",
+  "dependencies": {
+    "d3": "^4.12.0",
+    "d3-geo-projection": "^2.3.1",
+    "lodash": "^4.17.4",
+    "topojson": "^3.0.2"
+  },
+  "devDependencies": {
+    "budo": "^10.0.4",
+    "gh-pages": "^1.1.0"
+  }
+}
